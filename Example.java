@@ -3,5 +3,6 @@ public class Example{
         System.out.println("Project : Hospital Management System");
         int y=20;
         int x = 500;
+        System.out.println("Fixing bugs by creating a hotfix branch");
     }
 }
